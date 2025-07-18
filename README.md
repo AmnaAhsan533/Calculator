@@ -13,7 +13,7 @@ This project includes a **light/dark theme toggle**, and **keyboard support**.
 
 ## 🎮 Live Demo
 
--link
+-Checkout here (https://amnaahsan533.github.io/Calculator/)
 
 ## 💻 Tech Stack
 
